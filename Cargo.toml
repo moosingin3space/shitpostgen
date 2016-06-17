@@ -1,0 +1,7 @@
+[package]
+name = "shitpostgen"
+version = "0.1.0"
+authors = ["Nathan Moos <moosingin3space@gmail.com>"]
+
+[dependencies]
+getopts = "0.2"
